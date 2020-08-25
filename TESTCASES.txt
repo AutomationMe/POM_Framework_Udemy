@@ -1,0 +1,19 @@
+Testcase1:
+===========
+
+1.Open automation practice page
+2.click on contact us page
+3.validate that page opened
+
+Testcase2:
+==========
+
+1.Open automation page with many items - https://www.ultimateqa.com/complicated-page/
+2. Fill out and submit the form  in the "Section of random stuff"
+3. Validate the form has successfully submitted.
+
+Testcase3:
+=========
+1.Open same page
+2.Perform a search for string "selenium errors"
+3.validate that correct search results are returned.

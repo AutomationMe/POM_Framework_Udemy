@@ -1,0 +1,23 @@
+
+
+Element identification
+=========================
+
+Test case1
+----------
+
+Contact --> $x("//div[@id='contact-link']")
+
+Contact us page load contains - "controller=contact"
+
+
+Testcase2
+---------
+
+
+Name - $x("//input[@id='et_pb_contact_name_0']")
+Email - $x("//input[@id='et_pb_contact_email_0']")
+Message- $x("//textarea[@id='et_pb_contact_message_0']")
+Captcha -  $x("//input[@name='et_pb_contact_captcha_0']")
+
+Submit - et_builder_submit_button  take 1st one
