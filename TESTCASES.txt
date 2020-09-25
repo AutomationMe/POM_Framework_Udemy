@@ -17,3 +17,8 @@ Testcase3:
 1.Open same page
 2.Perform a search for string "selenium errors"
 3.validate that correct search results are returned.
+Testcas4:
+=========
+1.Open same page
+2.Perform a search for string "selenium errors"
+3.validate that correct search results are returned.
